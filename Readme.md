@@ -1,4 +1,5 @@
-# 🧬 BCCD Detector - YOLOv10 Blood Cell Detection Dashboard
+# 🩸 Blood Cell Counter & Detection Dashboard</h1>
+ BCCD Detector - YOLOv10 Blood Cell Detection Dashboard
 
 This Streamlit app allows you to detect and count **WBCs**, **RBCs**, and **Platelets** from blood smear images using a fine-tuned **YOLOv10** model.
 
@@ -11,8 +12,8 @@ This Streamlit app allows you to detect and count **WBCs**, **RBCs**, and **Plat
 - 📊 Detailed table and class-wise detection stats
 - 📈 Compact bar chart visualization for class count
 - 📥 Downloadable CSV detection report
-- Clean & modern dark-themed UI
-- Deployed on HuggingFace Space
+- 🌌Clean & modern dark-themed UI
+- 🤗Deployed on HuggingFace Space
 
 ---
 
